@@ -4288,6 +4288,7 @@ ul#portfolioitems {
 .portfolio-img {
     position: relative;
     overflow: hidden;
+    height: 220px;
 }
 .portfolio-img img {
     width: 100%;
